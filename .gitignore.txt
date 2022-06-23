@@ -60,3 +60,5 @@ Temporary Items
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+obj
+bin
