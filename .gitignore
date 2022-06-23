@@ -63,3 +63,4 @@ Temporary Items
 obj
 bin
 .DS_Store
+.vscode
