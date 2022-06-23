@@ -64,3 +64,4 @@ obj
 bin
 .DS_Store
 .vscode
+.gitignore.txt
