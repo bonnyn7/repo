@@ -62,3 +62,4 @@ Temporary Items
 [Ll]og/
 obj
 bin
+.DS_Store
